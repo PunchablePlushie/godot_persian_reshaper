@@ -22,11 +22,6 @@ config/icon="res://icon.png"
 
 PersianReshaper="*res://persian_nodes/PersianReshaper.gd"
 
-[display]
-
-window/stretch/mode="viewport"
-window/stretch/aspect="keep"
-
 [rendering]
 
 environment/default_environment="res://default_env.tres"
