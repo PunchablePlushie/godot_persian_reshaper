@@ -2,6 +2,8 @@
 Godot Persian Reshaper is a simple tool that adds support for the Persian language to the Godot engine. Works with Godot 3.2.
 The original code is by [2dvision](https://github.com/2dvision) and this is a refactored version that's easier to use and is available for free on the Godot Asset Library.
 
+> **Note**: Godot 4.x has built-in support for CTL and right-to-left languages, hence this plugin will be/is already deprecated.
+
 # How to Use
 1. First add `PersianReshaper.gd` to autoload through `Project > Project Settings > AutoLoad tab`.
 
